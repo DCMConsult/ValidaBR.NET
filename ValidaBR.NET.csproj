@@ -4,7 +4,7 @@
     <TargetFramework>netstandard2.0</TargetFramework>
     <AssemblyName>ValidadoresBrasil.Library</AssemblyName>
     <PackageId>ValidadoresBrasil.Library</PackageId>
-    <Version>1.0.2</Version>
+    <Version>1.0.3</Version>
     <Authors>Diego Câmara</Authors>
     <Description>Uma biblioteca C# para validação de dados brasileiros como CPF, CNPJ e CEP.</Description>
     <PackageTags>validador;cnpj;cpf;cep;brasil;dotnet;netstandard;record</PackageTags>
