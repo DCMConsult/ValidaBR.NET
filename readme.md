@@ -70,6 +70,8 @@ Sua colaboração é muito bem-vinda!
 
 Sinta-se à vontade para abrir uma issue para relatar bugs ou sugerir melhorias.
 
+https://github.com/DCMConsult/ValidaBR.NET
+
 ## 📄 Licença
 
 Este projeto está licenciado sob a licença **MIT**.
