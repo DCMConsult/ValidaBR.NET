@@ -1,0 +1,23 @@
+﻿<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <TargetFramework>netstandard2.0</TargetFramework>
+    <AssemblyName>ValidadoresBrasil.Library</AssemblyName>
+    <PackageId>ValidadoresBrasil.Library</PackageId>
+    <Version>1.0.2</Version>
+    <Authors>Diego Câmara</Authors>
+    <Description>Uma biblioteca C# para validação de dados brasileiros como CPF, CNPJ e CEP.</Description>
+    <PackageTags>validador;cnpj;cpf;cep;brasil;dotnet;netstandard;record</PackageTags>
+
+	  <RepositoryUrl>https://github.com/seu-usuario/ValidadoresBrasil</RepositoryUrl>
+	  <RepositoryType>git</RepositoryType>
+	  <PackageProjectUrl>https://github.com/seu-usuario/ValidadoresBrasil</PackageProjectUrl>
+	  <PackageReadmeFile>README.md</PackageReadmeFile>
+	  <PackageLicenseExpression>MIT</PackageLicenseExpression>
+  </PropertyGroup>
+
+	<ItemGroup>
+		<None Include="README.md" Pack="true" PackagePath="\" />
+	</ItemGroup>
+
+</Project>
